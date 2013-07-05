@@ -11,6 +11,9 @@ base on yiiframework , website:yincart.com
 * basic为小型项目管理结构分支，后台入口为backend.php
 * 请根据自己的业务需求选择
 
+###2013.7.4 kas-0.1版本
+* 修改 AdminUser 的filter 为AuthFilter 
+
 ###2013.6.16 1.0.6版本
 
 经过一个月的开发，1.0.6预览版终于出来了，前端新皮肤正在加紧开发中。下面简单介绍本版本主要的改变：
